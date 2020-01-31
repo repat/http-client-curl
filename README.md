@@ -12,8 +12,8 @@ This is a CURL Client implementation for [SERPS](https://github.com/serp-spider/
 Install
 -------
 
-Install it through [composer](https://getcomposer.org/) with the package 
-[serps/http-client-curl](https://packagist.org/packages/serps/http-client-curl) : ``composer require 'serps/http-client-curl'``
+Install it through [composer](https://getcomposer.org/) with the package
+[serps/http-client-curl](https://packagist.org/packages/serps/http-client-curl) : ``composer require 'repat/serps-http-client-curl'``
 
 Documentation
 -------------
@@ -24,4 +24,4 @@ Documentation
 Requirement
 -----------
 
-We recommend using curl version 7.48 or above. 
+We recommend using curl version 7.48 or above.

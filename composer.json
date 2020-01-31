@@ -1,7 +1,7 @@
 {
 
-  "name": "serps/http-client-curl",
-  "description": "CURL client for SERPS",
+  "name": "repat/serps-http-client-curl",
+  "description": "CURL client for SERPS, can be used with PHP 7.4",
   "type": "library",
   "keywords": ["SERPS", "HTTP Client", "curl"],
   "homepage": "https://github.com/serp-spider/serps-http-client-curl",
@@ -14,6 +14,10 @@
     {
       "name": "Soufiane GHZAL",
       "homepage": "https://github.com/gsouf"
+    },
+    {
+      "name": "repat",
+      "homepage": "https://repat.de"
     }
   ],
 
@@ -31,7 +35,7 @@
 
   "require": {
     "php": ">=5.5",
-    "serps/core": "~0.2.0|~0.3.0"
+    "repat/serps-core": "~0.2.0|~0.3.0|~0.4.0"
   },
 
   "scripts": {
